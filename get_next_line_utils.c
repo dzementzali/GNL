@@ -6,7 +6,7 @@
 /*   By: dzementz <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/10/25 16:45:43 by dzementz          #+#    #+#             */
-/*   Updated: 2019/11/04 17:02:50 by dzementz         ###   ########.fr       */
+/*   Updated: 2019/11/05 14:37:13 by dzementz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -66,7 +66,7 @@ char	*ft_substr(char const *str, unsigned int start, size_t len)
 	return (str2);
 }
 
-int	ft_strlen(const char *str)
+int		ft_strlen(const char *str)
 {
 	int i;
 
